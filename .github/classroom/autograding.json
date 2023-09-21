@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "rightSideViewTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabEightTests.rightSideViewTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "rightSideViewTest2",
+      "setup": "",
+      "run": "gradle test --tests LabEightTests.rightSideViewTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "rightSideViewTest3",
+      "setup": "",
+      "run": "gradle test --tests LabEightTests.rightSideViewTest3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "rightSideViewTest4",
+      "setup": "",
+      "run": "gradle test --tests LabEightTests.rightSideViewTest4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
